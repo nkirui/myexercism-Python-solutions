@@ -1,2 +1,2 @@
 # -exercism-Python-Track
-My solutions to Exercism  python track  [Here is My Profile](https://exercism.io/profiles/Nkirui)
+[Here is solutions and Profile](https://exercism.io/profiles/Nkirui)
